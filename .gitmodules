@@ -1,0 +1,12 @@
+[submodule "Tools/ProperTree"]
+	path = Tools/ProperTree
+	url = https://github.com/corpnewt/ProperTree.git
+[submodule "Tools/SSDTTime"]
+	path = Tools/SSDTTime
+	url = https://github.com/corpnewt/SSDTTime.git
+[submodule "Tools/ExplorerPlusPlus"]
+	path = Tools/ExplorerPlusPlus
+	url = https://github.com/derceg/explorerplusplus.git
+[submodule "Tools/GenSMBIOS"]
+	path = Tools/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS.git
